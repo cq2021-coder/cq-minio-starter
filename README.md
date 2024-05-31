@@ -66,3 +66,7 @@ public String getTmpAccess(String key) {
     return minioManager.getTmpUrl(key);
 }
 ```
+
+
+## 注意事项
+- 该 starter 是由 jdk21 + SpringBoot3.3.0 实现的，因此使用此 SDK 的项目也建议使用 SpringBoot3
