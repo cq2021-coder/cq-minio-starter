@@ -1,0 +1,2 @@
+com.cq.minio.config.MinioConfig
+com.cq.minio.manager.MinioManager
